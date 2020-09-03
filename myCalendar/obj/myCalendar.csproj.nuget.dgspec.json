@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\myCalendar.csproj": {}
+    "C:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\myCalendar.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\myCalendar.csproj": {
+    "C:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\myCalendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\myCalendar.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\myCalendar.csproj",
         "projectName": "myCalendar",
-        "projectPath": "c:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\myCalendar.csproj",
+        "projectPath": "C:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\myCalendar.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\obj\\",
+        "outputPath": "C:\\Users\\Ivan\\Desktop\\Course\\FSDI107\\myCalendar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config"
