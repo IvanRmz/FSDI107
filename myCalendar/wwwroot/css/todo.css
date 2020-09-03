@@ -1,0 +1,17 @@
+.parent-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.side {
+    flex: 1;
+}
+
+.content {
+    flex: 1;
+}
+
+.details {  
+    flex: 1;
+}
