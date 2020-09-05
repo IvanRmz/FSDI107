@@ -8,7 +8,7 @@ function fetchTasks() {
     //create an aget ajax req /api/tasks
     //console log the response from the server
     $.ajax({
-        url: "http://localhost:7001/api/tasks",
+        url: "/api/tasks",
         type: "GET",
         success: tasks => {
             console.log(tasks);
