@@ -1,0 +1,38 @@
+
+.content{
+    background-color: rgb(101, 142, 196);
+}
+
+.content h4 {
+    margin: 1rem 0 0 2rem;
+    color: white;
+}
+
+.task {
+    margin: 1rem 2rem 1rem 2rem;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+}
+.item-body{
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+.ic-check{
+    justify-content: start;
+}
+
+.ic-star {
+    justify-content: end;
+}
+.task-content{
+    width: 100%;
+    margin: 0 1rem 0 1rem; 
+}
+.task-title{
+    font-size: 1rem;
+}
+.task-note{
+    font-size: .5rem;
+}

@@ -3,6 +3,8 @@
 }
 @section Styles {
     <link rel="stylesheet" href="/css/todo.css">
+    <link rel="stylesheet" href="/css/task.css">
+    <link rel="stylesheet" href="/css/register.css">
     <link rel="stylesheet" href="/lib/fontawesome-free-5.14.0-web/css/all.css">
 }
 <!-- emmet -->
@@ -14,7 +16,25 @@
 
         </div>
     </div>
-    <div class="details">Create new</div>
+    <div class="details container">
+        <h4>New Task</h4>
+        <div class="details-section">
+            <input class="rounded border border-primary" type="text" id="txtTitle" placeholder="Task Title">
+        </div>
+
+        <div class="details-section">
+            <label for="chkImportant">Important</label>
+            <input type="checkbox"  id="chkImportant">
+        </div>
+
+        <div class="details-section">
+            <textarea  class="rounded border border-primary" id="txtNotes" placeholder="Notes" rows="6"></textarea>
+        </div>
+
+        <div class="details-section">
+            <button id="btnSave" class="btn btn-info btn-primary">Save Task</button>
+        </div>
+    </div>
 </div>
 
 @section Scripts {
